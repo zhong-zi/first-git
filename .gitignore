@@ -1,1 +1,3 @@
 operate.log
+*.log
+temp/
